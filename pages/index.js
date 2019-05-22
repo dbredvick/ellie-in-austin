@@ -2,6 +2,7 @@ import Link from "next/link";
 import Header from "../components/header";
 import Menu from '../components/menu';
 import Hero from '../components/hero';
+import { FaTools } from 'react-icons/fa';
 
 
 function Index() {
@@ -11,7 +12,7 @@ function Index() {
         <Menu />
         <Hero />
         <section>
-          <p>This site is currently under construction. Come back later for great content.</p>
+          <p><FaTools /> This site is currently under construction. Come back later for great content. <FaTools /></p>
         </section>
       </main>
       <style jsx global>{`
