@@ -1,11 +1,10 @@
 import Link from "next/link";
-import Header from "../components/header";
 import Menu from '../components/menu';
 import Hero from '../components/hero';
 import { FaTools } from 'react-icons/fa';
 
 
-function Index() {
+const Index = () => {
   return (
     <>
       <main>
@@ -13,6 +12,9 @@ function Index() {
         <Hero />
         <section>
           <p><FaTools /> This site is currently under construction. Come back later for great content. <FaTools /></p>
+        </section>
+        <section>
+          <div id="instafeed"></div>
         </section>
       </main>
       <style jsx global>{`

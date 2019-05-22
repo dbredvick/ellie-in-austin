@@ -1,1 +1,10 @@
-{"version":2,"name":"ellie-in-austin","builds":[{"src":"package.json","use":"@now/next"}]}
+{
+  "version": 2,
+  "name": "ellie-in-austin",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/next"
+    }
+  ]
+}
