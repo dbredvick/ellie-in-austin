@@ -21473,7 +21473,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_header__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/header */ "./components/header.js");
 /* harmony import */ var _components_menu__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/menu */ "./components/menu.js");
 /* harmony import */ var _components_hero__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/hero */ "./components/hero.js");
+/* harmony import */ var react_icons_fa__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! react-icons/fa */ "./node_modules/react-icons/fa/index.esm.js");
 var _jsxFileName = "/Users/drewbredvick/Source/ellie-in-austin/pages/index.js";
+
 
 
 
@@ -21486,39 +21488,51 @@ function Index() {
     className: "jsx-299071716",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
+      lineNumber: 11
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_menu__WEBPACK_IMPORTED_MODULE_4__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 11
+      lineNumber: 12
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_hero__WEBPACK_IMPORTED_MODULE_5__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
+      lineNumber: 13
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("section", {
     className: "jsx-299071716",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
+      lineNumber: 14
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
     className: "jsx-299071716",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
+      lineNumber: 15
     },
     __self: this
-  }, "This site is currently under construction. Come back later for great content."))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_icons_fa__WEBPACK_IMPORTED_MODULE_6__["FaTools"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }), " This site is currently under construction. Come back later for great content. ", react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react_icons_fa__WEBPACK_IMPORTED_MODULE_6__["FaTools"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  })))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "299071716",
     __self: this
-  }, "body{margin:0px !important;}p{text-align:center;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kcmV3YnJlZHZpY2svU291cmNlL2VsbGllLWluLWF1c3Rpbi9wYWdlcy9pbmRleC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFnQnlCLEFBRytCLEFBR0osa0JBQ3BCLElBSEEiLCJmaWxlIjoiL1VzZXJzL2RyZXdicmVkdmljay9Tb3VyY2UvZWxsaWUtaW4tYXVzdGluL3BhZ2VzL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IExpbmsgZnJvbSBcIm5leHQvbGlua1wiO1xuaW1wb3J0IEhlYWRlciBmcm9tIFwiLi4vY29tcG9uZW50cy9oZWFkZXJcIjtcbmltcG9ydCBNZW51IGZyb20gJy4uL2NvbXBvbmVudHMvbWVudSc7XG5pbXBvcnQgSGVybyBmcm9tICcuLi9jb21wb25lbnRzL2hlcm8nO1xuXG5cbmZ1bmN0aW9uIEluZGV4KCkge1xuICByZXR1cm4gKFxuICAgIDw+XG4gICAgICA8bWFpbj5cbiAgICAgICAgPE1lbnUgLz5cbiAgICAgICAgPEhlcm8gLz5cbiAgICAgICAgPHNlY3Rpb24+XG4gICAgICAgICAgPHA+VGhpcyBzaXRlIGlzIGN1cnJlbnRseSB1bmRlciBjb25zdHJ1Y3Rpb24uIENvbWUgYmFjayBsYXRlciBmb3IgZ3JlYXQgY29udGVudC48L3A+XG4gICAgICAgIDwvc2VjdGlvbj5cbiAgICAgIDwvbWFpbj5cbiAgICAgIDxzdHlsZSBqc3ggZ2xvYmFsPntgXG4gICAgICBib2R5IHtcbiAgICAgICAgbWFyZ2luOiAwcHggIWltcG9ydGFudDtcbiAgICAgIH1cbiAgICAgIHAge1xuICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICB9XG4gICAgICBcbiAgICBgfTwvc3R5bGU+XG4gICAgPC8+XG4gICk7XG59XG5cbmV4cG9ydCBkZWZhdWx0IEluZGV4O1xuIl19 */\n/*@ sourceURL=/Users/drewbredvick/Source/ellie-in-austin/pages/index.js */"));
+  }, "body{margin:0px !important;}p{text-align:center;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9kcmV3YnJlZHZpY2svU291cmNlL2VsbGllLWluLWF1c3Rpbi9wYWdlcy9pbmRleC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFpQnlCLEFBRytCLEFBR0osa0JBQ3BCLElBSEEiLCJmaWxlIjoiL1VzZXJzL2RyZXdicmVkdmljay9Tb3VyY2UvZWxsaWUtaW4tYXVzdGluL3BhZ2VzL2luZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IExpbmsgZnJvbSBcIm5leHQvbGlua1wiO1xuaW1wb3J0IEhlYWRlciBmcm9tIFwiLi4vY29tcG9uZW50cy9oZWFkZXJcIjtcbmltcG9ydCBNZW51IGZyb20gJy4uL2NvbXBvbmVudHMvbWVudSc7XG5pbXBvcnQgSGVybyBmcm9tICcuLi9jb21wb25lbnRzL2hlcm8nO1xuaW1wb3J0IHsgRmFUb29scyB9IGZyb20gJ3JlYWN0LWljb25zL2ZhJztcblxuXG5mdW5jdGlvbiBJbmRleCgpIHtcbiAgcmV0dXJuIChcbiAgICA8PlxuICAgICAgPG1haW4+XG4gICAgICAgIDxNZW51IC8+XG4gICAgICAgIDxIZXJvIC8+XG4gICAgICAgIDxzZWN0aW9uPlxuICAgICAgICAgIDxwPjxGYVRvb2xzIC8+IFRoaXMgc2l0ZSBpcyBjdXJyZW50bHkgdW5kZXIgY29uc3RydWN0aW9uLiBDb21lIGJhY2sgbGF0ZXIgZm9yIGdyZWF0IGNvbnRlbnQuIDxGYVRvb2xzIC8+PC9wPlxuICAgICAgICA8L3NlY3Rpb24+XG4gICAgICA8L21haW4+XG4gICAgICA8c3R5bGUganN4IGdsb2JhbD57YFxuICAgICAgYm9keSB7XG4gICAgICAgIG1hcmdpbjogMHB4ICFpbXBvcnRhbnQ7XG4gICAgICB9XG4gICAgICBwIHtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgfVxuICAgICAgXG4gICAgYH08L3N0eWxlPlxuICAgIDwvPlxuICApO1xufVxuXG5leHBvcnQgZGVmYXVsdCBJbmRleDtcbiJdfQ== */\n/*@ sourceURL=/Users/drewbredvick/Source/ellie-in-austin/pages/index.js */"));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
